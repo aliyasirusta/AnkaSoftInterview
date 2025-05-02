@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\bin\Debug\GorevYonetimSistemi.exe.config
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\bin\Debug\GorevYonetimSistemi.exe
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\bin\Debug\GorevYonetimSistemi.pdb
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.exe
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.pdb
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.AdminPaneliForm.resources
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.Form1.resources
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.Form2.resources
+C:\Users\ASUS\source\repos\GorevYonetimSistemi\GorevYonetimSistemi\obj\Debug\GorevYonetimSistemi.StandartKullaniciPaneliForm.resources
